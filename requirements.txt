@@ -1,0 +1,6 @@
+fastapi[standard]
+pydantic
+langchain-openai
+langserve[all]
+minio
+pydantic-settings
